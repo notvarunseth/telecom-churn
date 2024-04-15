@@ -1,3 +1,4 @@
 init.pkl
 telecom_churn_data.csv
 *.pkl
+.DS_Store
